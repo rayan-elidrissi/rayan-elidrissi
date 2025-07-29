@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/rayan-el-idrissi-dafali/">Rayan El Idrissi Dafali</a> 👋</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/rayan-el-idrissi-dafali/">Rayan El Idrissi</a> 👋</h1>
 
 <h2>👨‍🔬 About Me</h2>
 
@@ -28,9 +28,9 @@ Currently working on skill preservation in cultural heritage using multimodal AI
 
 | Platform | Link |
 |---------|------|
-| LinkedIn | [Rayan El Idrissi Dafali](https://www.linkedin.com/in/rayan-el-idrissi-dafali/) |
-| GitHub | [@YourGitHub]([https://github.com/YourGitHub](https://github.com/rayan-elidrissi/)) |
-| Email | [rayan.elidrissi@minesparis.psl.eu](mailto:rayan.elidrissi@minesparis.psl.eu) |
+| LinkedIn | [Rayan El Idrissi](https://www.linkedin.com/in/rayan-el-idrissi-dafali/) |
+| GitHub | [@rayan-elidrissi]([https://github.com/YourGitHub](https://github.com/rayan-elidrissi/)) |
+| Email | [rayan.el_idrissi_dafali@minesparis.psl.eu](mailto:rayan.el_idrissi_dafali@minesparis.psl.eu) |
 
 ---
 
