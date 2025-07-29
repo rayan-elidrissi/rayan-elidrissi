@@ -11,6 +11,14 @@ Currently working on skill preservation in cultural heritage using multimodal AI
 
 ---
 
+<h2>🧭 What I'm Looking For</h2>
+
+✅ Collaborations on open-source projects  
+✅ Mentorship or peer-review on AI research pipelines  
+✅ Freelance/Consulting in Machine Learning, CV, NLP  
+
+---
+
 <h2>💻 Tech I Use</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,11 +38,3 @@ Currently working on skill preservation in cultural heritage using multimodal AI
 |---------|------|
 | LinkedIn | [Rayan El Idrissi](https://www.linkedin.com/in/rayan-el-idrissi-dafali/) |
 | Email | [rayan.el_idrissi_dafali@minesparis.psl.eu](mailto:rayan.el_idrissi_dafali@minesparis.psl.eu) |
-
----
-
-<h2>🧭 What I'm Looking For</h2>
-
-✅ Freelance/Consulting in Machine Learning, CV, NLP  
-✅ Collaborations on open-source projects  
-✅ Mentorship or peer-review on AI research pipelines
