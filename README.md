@@ -4,7 +4,7 @@
 
 🔬 AI Researcher focused on Vision-Language Models, Distributed Systems, and Human-Centered AI  
 🎓 M.Eng. Data Science & AI @ ESILV Paris · Research Intern @ Mines Paris - PSL  
-🌍 Cross-continental academic track (France 🇫🇷 & South Korea 🇰🇷)  
+🌍 Cross-continental academic track (France & South Korea)  
 🚀 Open to freelance consulting, research collaborations & impactful AI projects  
 
 Currently working on skill preservation in cultural heritage using multimodal AI for a UNESCO-led project, and building scalable tools for real-world deep learning applications.
@@ -29,13 +29,12 @@ Currently working on skill preservation in cultural heritage using multimodal AI
 | Platform | Link |
 |---------|------|
 | LinkedIn | [Rayan El Idrissi](https://www.linkedin.com/in/rayan-el-idrissi-dafali/) |
-| GitHub | [@rayan-elidrissi]([https://github.com/YourGitHub](https://github.com/rayan-elidrissi/)) |
 | Email | [rayan.el_idrissi_dafali@minesparis.psl.eu](mailto:rayan.el_idrissi_dafali@minesparis.psl.eu) |
 
 ---
 
 <h2>🧭 What I'm Looking For</h2>
 
-✔️ Freelance/Consulting in Machine Learning, CV, NLP  
-✔️ Collaborations on open-source
-✔️ Mentorship or peer-review on AI research pipelines
+✅ Freelance/Consulting in Machine Learning, CV, NLP  
+✅ Collaborations on open-source projects  
+✅ Mentorship or peer-review on AI research pipelines
