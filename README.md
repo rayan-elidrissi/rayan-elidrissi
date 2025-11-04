@@ -7,7 +7,7 @@
 🌍 Cross-continental academic track (France & South Korea)  
 🚀 Open to freelance consulting, research collaborations & impactful AI projects  
 
-Currently working on skill preservation in cultural heritage using multimodal AI for a UNESCO-led project, and building scalable tools for real-world deep learning applications.
+Currently working on skill preservation in cultural heritage using multimodal AI for a UNESCO-initiated project, and building scalable tools for real-world deep learning applications.
 
 ---
 
